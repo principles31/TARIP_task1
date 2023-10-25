@@ -1,12 +1,11 @@
 # TARIP_task1
 # Personal_website
-> This is a personal website to serve as an online presence. It was build using HTML | CSS | Javascript.
+> This is a personal website to serve as an online presence. It was build using HTML | CSS |
 
 ## Built With
 
 - HTML 
 - CSS
-- Javascript
 
 
 ## Live Demo (if available)
